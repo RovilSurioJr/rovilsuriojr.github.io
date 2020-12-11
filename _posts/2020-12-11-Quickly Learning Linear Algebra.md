@@ -1,6 +1,9 @@
 ---
 published: true
 ---
+![]({{site.baseurl}}/images/DEKU.gif)
+
+
 ## (intro LA)
 
 ## [Laboratory 1](https://rovilsuriojr.github.io/Laboratory-1/)
@@ -22,5 +25,3 @@ published: true
 ## [Laboratory 9](https://rovilsuriojr.github.io/Laboratory-9/)
 
 ## [Laboratory 10](https://rovilsuriojr.github.io/Laboratory-10/)
-
-
