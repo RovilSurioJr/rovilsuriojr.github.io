@@ -6,7 +6,7 @@ published: true
 
 ## (intro LA)
 
-## [Laboratory 1](https://rovilsuriojr.github.io/Laboratory-1/)
+## [Laboratory 1: Setting up Anaconda and JupyterLab](https://rovilsuriojr.github.io/Laboratory-1/)
 
 ## [Laboratory 2](https://rovilsuriojr.github.io/Laboratory-2/)
 
