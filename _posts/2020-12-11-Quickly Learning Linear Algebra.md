@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-<center> ![]({{site.baseurl}}/images/DEKU.gif) </center>
+![]({{site.baseurl}}/images/DEKU.gif)
 
 
 ## (intro LA)
