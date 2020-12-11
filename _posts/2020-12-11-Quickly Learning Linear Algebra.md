@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## A New Post
+## (intro LA)
 
 ## [Laboratory 1](https://rovilsuriojr.github.io/Laboratory-1/)
 
@@ -23,4 +23,4 @@ published: true
 
 ## [Laboratory 10](https://rovilsuriojr.github.io/Laboratory-10/)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
