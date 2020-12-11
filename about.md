@@ -13,4 +13,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[Rovil Surio Jr](rovil.surio.jr@adamson.edu.ph)
+[Rovil Surio Jr](mailto:rovil.surio.jr@adamson.edu.ph)
