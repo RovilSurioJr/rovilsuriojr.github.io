@@ -12,6 +12,4 @@ Some information about you!
 A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
-
-[Rovil Surio Jr](mailto :rovil.surio.jr@adamson.edu.ph) :rovil.surio.jr@adamson.edu.ph
-
+rovil.surio.jr@adamson.edu.ph
