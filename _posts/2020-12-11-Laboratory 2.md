@@ -3,4 +3,4 @@ published: true
 ---
 ## Plotting Vector using NumPy and MatPlotLib
 
-LAB2.1.jpg
+![]({{site.baseurl}}/images/LAB2.1.jpg)
