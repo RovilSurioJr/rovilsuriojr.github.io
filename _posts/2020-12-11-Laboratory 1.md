@@ -3,7 +3,12 @@ published: true
 ---
 ## Basic activities with Python
 
-![]({{site.baseurl}}/LAB1.1.jpg)
 ![]({{site.baseurl}}/images/LAB1.1.jpg)
 
-The block of code was created and executed to present the three possible parties. Using the create_party (party, candidates) function given, a block of code was created that displaying the possible parties while keeping the original members of the 'party' list when the function was called. It was achieved by appending one by one of the selected Pokémon from the 'pick' variable from cell 2. The process includes accessing their index and appending the first pokemon from the 'pick' list which is 'Unown' to the 'party' list using the code “party.append(pick[0])” and printing the current elements of the 'party' list. Next is removing 'Unown' by the code “party.remove(“Unown”)” and replace it with 'Magikarp' by the code “party.append(pick[1])” and print again the current elements of the 'party' list. Lastly, replacing 'Magikarp' by 'Feebas' using these codes “party.remove(“Magikarp”)” and “party.append(pick[2])”. Now that the three possible parties are completed, calling the function to execute the block code shows the identical output to what is presented in the problem.
+The code snippet above executed to have an identical output to what has been presented in the given problem. It was achieved by using the function zip() to put together the two lists and convert it together into a string by using the join string method. Also, the word 'at level' was added in-between of the Pokémon names and level in the positional argument from the format string method so that when it prints, it will follow the format that was assigned which is the ("{} {} {}".format(party, ‘at level’, levels). So, the first index from the 'party', will go to the first ‘{}’ to be followed by the word ‘at level’ into the second ‘{}’ then lastly the first index from the ‘level’ list into last ‘{}’. This process is in a loop until it reached the last index of the list or ‘Abra’ and level 14 in the ‘levels’ list.
+
+
+![]({{site.baseurl}}/images/LAB1.2.jpg)
+
+
+![]({{site.baseurl}}/images/LAB1.3.jpg)
