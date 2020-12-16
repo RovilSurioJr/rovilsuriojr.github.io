@@ -1,6 +1,9 @@
 ---
 published: true
 ---
+---
+***
+
 ## Linear Combination and Spans
 
 This laboratory activity aims to implement the principles and techniques of representing linear combinations in the 2-dimensional plane. This also aims to visualize spans using vector fields in Python and to perform vector field operations using scientific programming.
@@ -25,9 +28,6 @@ The practices of the activity include combining linear scaling and the addition 
 ***
 
 The result of the two activities done by implementing the principles and techniques of representing combinations in the 2-dimensional plane and visualizing spans using vector fields by performing operations using scientific programming was presented in this section.
-
----
-***
 
 ## Activity 1
 
