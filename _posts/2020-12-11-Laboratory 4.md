@@ -8,7 +8,11 @@ published: true
 
 This laboratory activity aims to implement the principles and techniques of doing the operations between the vectors using Python and to visualize the vector operations.
 
+<p align="justify/left/right/center">
+
 The practices of the activity include being familiar with different operations that can be done between the array of vectors and to make functions that will solve operations following a certain formula. This also teaches and implies the techniques of doing operation between an array of vectors and visualizing the resulting vector using a 3D-plot. The deliverables of the activity are to provide a function that will solve the modulus of a vector using the Euclidean Norm formula, a function that will solve the inner product of two vectors using the inner product formula, and to code the operation of vectors given by the instructor also, explain its resulting vector using a 3D-plot. Lastly, It was achieved by implementing loops on the function created and provide specific operations to solve the modulus of vector and inner product of two vectors. The expected value in the last task was achieved by implementing the operation vectors introduced in this laboratory and it was visualize using a 3D-plot.
+  
+</p>
 
 ---
 ***
@@ -76,7 +80,7 @@ Figure 8 shows the block of code created to solve the vector operation using the
 
 ![Figure 8]({{site.baseurl}}/images/LAB4.8.jpg)
 
-Figure 9 shows the resulting vector and the visualization of it using a 3D plot. The line represents the transformed values from the resulting vector by scaling the values with the arbitrary constant or by multiplying each of these into the scalar values created to show the span of it. The values achieved are the same as the expected values by the instructor.  <p align="justify">
+Figure 9 shows the resulting vector and the visualization of it using a 3D plot. The line represents the transformed values from the resulting vector by scaling the values with the arbitrary constant or by multiplying each of these into the scalar values created to show the span of it. The values achieved are the same as the expected values by the instructor.  
 
 ---
 ***
