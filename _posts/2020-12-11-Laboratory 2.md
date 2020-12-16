@@ -10,10 +10,10 @@ This laboratory activity aims to implement the principles and techniques of plot
 
 The practices of the activity include creating arrays and plotting of vectors. This teaches and implies the techniques of manipulating arrays and plotting of vectors. The deliverables of the activity are to provide an array and formulas needed to completely plot the vectors. Lastly, it was achieved by reading the documentation of the functions.
 
-The results from the activities done by implementing the principles and techniques of representing the vectors through plotting using the MathPlot library and NumPy library to manipulate arrays were presented in this section. The first activity was focused on providing necessary formulas to complete the code while the second activity was all about code analysis and how to transform a project that lacks coding conventions into a well-created project that follows coding convention. Lastly, the third activity was about understanding the relationship of each vector used to represent data.
-
 ---
 ***
+
+The results from the activities done by implementing the principles and techniques of representing the vectors through plotting using the MathPlot library and NumPy library to manipulate arrays were presented in this section. The first activity was focused on providing necessary formulas to complete the code while the second activity was all about code analysis and how to transform a project that lacks coding conventions into a well-created project that follows coding convention. Lastly, the third activity was about understanding the relationship of each vector used to represent data.
 
 ### Activity 1
 
