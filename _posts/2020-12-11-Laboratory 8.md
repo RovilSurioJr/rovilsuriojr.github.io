@@ -66,6 +66,8 @@ The essence of the system of linear equations is that it can represent data or e
 
 [4]M. Steglehner and B. techn, "Flexible solutions of polynomial systems and their applications in robotics", Maplesoft.com, 2020. [Online]. Available: https://www.maplesoft.com/Whitepapers/MichaelSteglehner.pdf. [Accessed: 13- Dec- 2020].
 
+---
+***
 
 ## You can access the codes here with a full discussion:
 
