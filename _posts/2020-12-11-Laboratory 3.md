@@ -86,10 +86,6 @@ The concept of linear combination can be applied in engineering especially compu
 
 [5]"numpy.meshgrid — NumPy v1.19 Manual", Numpy.org, 2020. [Online]. Available: https://numpy.org/doc/stable/reference/generated/numpy.meshgrid.html. [Accessed: 22- Oct- 2020].
 
-[6]"Vector and spaces | Linear algebra", 2020. [Online]. Available: https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/linear-algebra-parametric-representations-of-lines?modal=1. [Accessed: 23- Oct- 2020].
-
-[7]"Calculus II - The 3-D Coordinate System", Tutorial.math.lamar.edu, 2020. [Online]. Available: https://tutorial.math.lamar.edu/classes/calcii/3dcoords.aspx. [Accessed: 25- Oct- 2020].
-
 
 ## You can access the codes here:
 
