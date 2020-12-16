@@ -99,7 +99,7 @@ This laboratory demonstrated the concepts behind the different principles and te
 
 ## You can access the codes here:
 
-[Laboratory 3 Repository](https://github.com/RovilSurioJr/Laboratory-3)
+[Laboratory 4 Repository](https://github.com/RovilSurioJr/Laboratory-4)
 
 ---
 ***
