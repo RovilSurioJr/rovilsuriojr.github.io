@@ -17,13 +17,13 @@ The results from solving a system of linear equations from the scenario created 
 
 ### Scenario
 
-“I and my brother have a collection of anime figurines and I created a list for our current figurines and the one that is still currently in a pre-ordered state. In total, we currently have 6 nendoroids, 4 Figma, and 3 pop up parade. This cost us a total of 30,000. Meanwhile, the current figurines we pre-ordered that will be released in the future are 2 nendoroids, 2 figma, and 3 pop up parade, for a total of 18,000. I am still waiting for the other re-release of the figures I failed to acquire. Those are 4 nendoroids, 2 Figma, and 1 pop up parade which will be about 15,000.” 
+I and my brother have a collection of anime figurines and I created a list for our current figurines and the one that is still currently in a pre-ordered state. In total, we currently have 6 nendoroids, 4 Figma, and 3 pop up parade. This cost us a total of 30,000. Meanwhile, the current figurines we pre-ordered that will be released in the future are 2 nendoroids, 2 figma, and 3 pop up parade, for a total of 18,000. I am still waiting for the other re-release of the figures I failed to acquire. Those are 4 nendoroids, 2 Figma, and 1 pop up parade which will be about 15,000.
 
-### Matrix form
+### System of linear equation
 
 ![Figure 1]({{site.baseurl}}/images/LAB8.1.jpg)
 
-The Figure above is the matrix form of the values or elements from the given scenario
+The Figure above is the system of linear equation form of the values or elements from the given scenario
 
 ---
 ***
