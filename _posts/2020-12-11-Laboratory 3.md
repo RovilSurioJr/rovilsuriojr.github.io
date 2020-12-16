@@ -74,6 +74,23 @@ The implementation of the principles and techniques of representing linear combi
 
 The concept of linear combination can be applied in engineering especially computer engineering or in some programming-related courses in a way that some programs need to do the concept of linear combination because of the specific purpose of the program. For example, a program that represents data through vectors that are plotted in a plane. This program can be about showing all the specific position of something like how is the movement of an eagle at a specific time. We can plot it using a linear combination and in this way, we can see the span of all possible location movements of the eagle during the specific time set.
 
+## References
+
+[1]"numpy.arange — NumPy v1.19 Manual", Numpy.org, 2020. [Online]. Available: https://numpy.org/doc/stable/reference/generated/numpy.arange.html. [Accessed: 22- Oct- 2020].
+
+[2]"matplotlib.pyplot.scatter — Matplotlib 3.3.2 documentation", Matplotlib.org, 2020. [Online]. Available: https://matplotlib.org/3.3.2/api/_as_gen/matplotlib.pyplot.scatter.html. [Accessed: 22- Oct- 2020].
+
+[3]"matplotlib.pyplot.axvline — Matplotlib 3.3.2 documentation", Matplotlib.org, 2020. [Online]. Available: https://matplotlib.org/3.3.2/api/_as_gen/matplotlib.pyplot.axvline.html. [Accessed: 22- Oct- 2020].
+
+[4]"matplotlib.pyplot.axhline — Matplotlib 3.3.2 documentation", Matplotlib.org, 2020. [Online]. Available: https://matplotlib.org/3.3.2/api/_as_gen/matplotlib.pyplot.axhline.html. [Accessed: 22- Oct- 2020].
+
+[5]"numpy.meshgrid — NumPy v1.19 Manual", Numpy.org, 2020. [Online]. Available: https://numpy.org/doc/stable/reference/generated/numpy.meshgrid.html. [Accessed: 22- Oct- 2020].
+
+[6]"Vector and spaces | Linear algebra", 2020. [Online]. Available: https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/linear-algebra-parametric-representations-of-lines?modal=1. [Accessed: 23- Oct- 2020].
+
+[7]"Calculus II - The 3-D Coordinate System", Tutorial.math.lamar.edu, 2020. [Online]. Available: https://tutorial.math.lamar.edu/classes/calcii/3dcoords.aspx. [Accessed: 25- Oct- 2020].
+
+
 ## You can access the codes here:
 
 [Laboratory 3 Repository](https://github.com/RovilSurioJr/Laboratory-3)
