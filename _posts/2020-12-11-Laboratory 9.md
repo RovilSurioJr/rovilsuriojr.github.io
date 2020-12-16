@@ -73,6 +73,8 @@ The Figure above shows the monthly revenues, monthly cost, and monthly profits o
 ---
 ***
 
+### Part 3
+
 
 
 
