@@ -32,12 +32,22 @@ The Figure above shows the data given by Bebang to be analyzed to solve the case
 
 The code snippet above shows how to vectorize data and reshape a matrix to make the computation possible between the values.
 
+---
+***
+
 ### Part 2
 
 ![Figure 3]({{site.baseurl}}/images/LAB89.3.jpg)
 
-The Figure above shows the formulas needed to compute for values requested by Bebang
+The Figure above shows the formulas needed to compute for values requested by Bebang and the function created to print the monthly sales and profit for each month.
 
+![Figure 3]({{site.baseurl}}/images/LAB89.4.jpg)
+
+---
+***
+
+
+![Figure 3]({{site.baseurl}}/images/LAB89.3.jpg)
 
 
 ## You can access the codes here with a full discussion:
