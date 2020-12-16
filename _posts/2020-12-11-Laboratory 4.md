@@ -72,14 +72,17 @@ The output from using the function created and using the np.inner() function fro
 
 ![Figure 8]({{site.baseurl}}/images/LAB4.8.jpg)
 
-Figure 8 shows the block of code created to solve the vector operation using the given vector values. After analyzing the problem, the first part of the operation was coded first, and it can be observed that the square of the vector was done by getting the dot product of itself because according to [1], “The projection of a vector on to itself leaves its magnitude unchanged, the dot product of any vector with itself is the square of that vector's magnitude.” It was followed by calculating the second and third parts then the multiplication of each part to get the resulting vector. To visualize the resulting vector, the values were plotted into a 3-dimensional plane using the plot instead of the quiver to see how the continuous line of this behaves or to show all the possible vectors it can reach using the scalar values. 
+The block of code created to solve the vector operation using the given vector values. After analyzing the problem, the first part of the operation was coded first, and it can be observed that the square of the vector was done by getting the dot product of itself because according to [1], “The projection of a vector on to itself leaves its magnitude unchanged, the dot product of any vector with itself is the square of that vector's magnitude.” It was followed by calculating the second and third parts then the multiplication of each part to get the resulting vector. To visualize the resulting vector, the values were plotted into a 3-dimensional plane using the plot instead of the quiver to see how the continuous line of this behaves or to show all the possible vectors it can reach using the scalar values. 
 
 ![Figure 8]({{site.baseurl}}/images/LAB4.8.jpg)
 
-Figure 9 shows the resulting vector and the visualization of it using a 3D plot. The line represents the transformed values from the resulting vector by scaling the values with the arbitrary constant or by multiplying each of these into the scalar values created to show the span of it. The values achieved are the same as the expected values by the instructor.  
+The resulting vector and the visualization of it using a 3D plot. The line represents the transformed values from the resulting vector by scaling the values with the arbitrary constant or by multiplying each of these into the scalar values created to show the span of it. The values achieved are the same as the expected values by the instructor.  
 
 ---
 ***
+
+### 
+
 
 ## You can access the codes here:
 
