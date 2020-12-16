@@ -7,13 +7,13 @@ This laboratory activity aims to implement the principles and techniques of repr
 
 The practices of the activity include combining linear scaling and the addition of a vector. This activity teaches and implies the techniques of representing linear combinations in the 2-dimensional plane and visualizing spans using vector fields in python. Some functions were used such as np.arange() function that returns evenly spaced values within a given interval [1], plt.scatter() function that makes the plotting of the x and y components of a vector into a plane faster [2], plt.axhline() and plt.axvline() functions that adds a horizontal and vertical line across the axes [3][4], np.meshgrid() function that returns coordinate matrices from coordinate vectors [5]. The deliverables of the activity are to provide a linear equation and vector form of the linear combination. It was achieved by providing random values to be used in the equations and the vector form of the linear combination. 
 
+## Activity 1 Flowchart
+
 ![Figure 1]({{site.baseurl}}/images/LAB3.1.jpg)
 
-Activity 1 Flowchart
+## Activity 2 Flowchart
 
 ![Figure 2]({{site.baseurl}}/images/LAB3.2.jpg)
-
-Activity 2 Flowchart
 
 The result of the two activities done by implementing the principles and techniques of representing combinations in the 2-dimensional plane and visualizing spans using vector fields by performing operations using scientific programming was presented in this section.
 
