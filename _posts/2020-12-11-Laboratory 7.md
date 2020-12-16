@@ -148,8 +148,6 @@ According to [1], the problem of image reconstruction from projections can be co
 
 [1]L. Flores, V. Vidal, and G. Verdú, "System Matrix Analysis for Computed Tomography Imaging", plos.org, 2015. [Online]. Available: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0143202. [Accessed: 12- Dec- 2020].
 
-
-
 ## You can access the codes here with a full discussion:
 
 [Laboratory 7 Repository](https://github.com/RovilSurioJr/Laboratory-7)
