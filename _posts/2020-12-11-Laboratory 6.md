@@ -68,7 +68,7 @@ This laboratory introduced the concept of matrices and demonstrate some basic op
 ---
 ***
 
-### Real-Life application
+### Real-world application
 
 The application of matrix computation can be observed in creating large-scale models since according to [10], “In others, like direction learning and topic modeling, the matrix parameter instead pops up in the algorithms as the natural tool to represent uncertainty.” In addition, the emergence of large matrices in different applications brought new algorithms and tools [10]. You have learned and realized how important the concept of matrices in different fields because of this laboratory. The operations you have seen in this laboratory are important to understand deeper the next concepts or application of the matrices. According to [10], matrices can be used to find the interrelations between features or for example, how feature (A) related to feature (B). 
 
