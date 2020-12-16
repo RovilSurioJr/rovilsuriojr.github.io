@@ -33,11 +33,25 @@ The code above shows the organized eagle_kinematics function that computes the d
 
 ![Figure 5]({{site.baseurl}}/images/LAB2.6.jpg)
 
+The code snippets above show the completed code for Bebang’s Project and the output or the result of Bebang’s month post efficiency. The values of the vectors come from the arrays of profit and fbpost_reach by making an ordered pair of the 2 arrays. The computation of the resultant vector, magnitude of the displacement, angle of displacement, and even in plotting the vectors are the same as what is used or concept implemented in plotting Philippine Eagle Flight Plotter. 
 
+![Figure 6]({{site.baseurl}}/images/LAB2.7.jpg)
 
+In the scenario above, the total value of profit was decreased. It can be observed in this scenario that the efficiency of Bebang’s post also decreased.
 
+![Figure 7]({{site.baseurl}}/images/LAB2.8.jpg)
 
+The total value of profit is increased and the efficiency of Bebang’s post also increased.
 
+![Figure 8]({{site.baseurl}}/images/LAB2.9.jpg)
+
+The fbpost_reach was manipulated into a lower value. The result proves that the lower fbpost_reach means lower efficiency of Bebang’s post.
+
+![Figure 9]({{site.baseurl}}/images/LAB2.10.jpg)
+
+The result of the fourth scenario wherein the fbpost_reach was adjusted into higher value and this results in the higher efficiency of Bebang’s post.
+
+To conclude, as shown in Figures 6 to 9, the higher the profit or the fbpost_reach of Bebang means, the higher the efficiency of its month post while the lower profit or fbpost_reach means lower efficiency of the month post. Therefore, the Bebang’s month post efficiency is directly proportional to profit and fb_post reach.
 
 
 
