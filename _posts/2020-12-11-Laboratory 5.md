@@ -66,7 +66,7 @@ This laboratory implements the principles and techniques of representing multi-d
 ---
 ***
 
-### Real-world Application
+### Real-world application
 
 The concepts of visualizing and representing vectors in n-dimensions for business applications can be applied in compiling records to be observed for a certain period like for example, the number of items sold in a store during week 1 and from what type of transaction was done [7].
 
