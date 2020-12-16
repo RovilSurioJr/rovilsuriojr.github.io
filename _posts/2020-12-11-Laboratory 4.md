@@ -46,7 +46,37 @@ The result of the activities done by implementing the techniques and principles 
 
 ![Figure 4]({{site.baseurl}}/images/LAB4.4.jpg)
 
-Figure 4 shows the code of block created to have a function that calculates the modulus without using the function from the NumPy library. The variable "raisesum" was set to 0 so that the assignment of this variable is possible at the same time that it was used as referenced. A loop statement was created to access every element inside the vectors created and inside this loop statement are the operations that will compute the modulus of the 6 different vectors. The operations include the summation of the squared elements from the vectors. The sum of these elements was assigned to the "raisesum" variable and the square root of this was assigned to "sqr" which was returned afterward and printed. The second part of the code is for the comparison between the function created and the function from the NumPy library.
+Figure above shows the code of block created to have a function that calculates the modulus without using the function from the NumPy library. The variable "raisesum" was set to 0 so that the assignment of this variable is possible at the same time that it was used as referenced. A loop statement was created to access every element inside the vectors created and inside this loop statement are the operations that will compute the modulus of the 6 different vectors. The operations include the summation of the squared elements from the vectors. The sum of these elements was assigned to the "raisesum" variable and the square root of this was assigned to "sqr" which was returned afterward and printed. The second part of the code is for the comparison between the function created and the function from the NumPy library.
+
+![Figure 5]({{site.baseurl}}/images/LAB4.5.jpg)
+
+The output from using the modulus function created and the output from using the np.linalg.norm() function from NumPy library. It can be observed that using the basic operations in the modulus function created produced the same result with the np.linalg.norm()function.
+
+---
+***
+
+### Activity 2
+
+![Figure 6]({{site.baseurl}}/images/LAB4.6.jpg)
+
+The Figure above shows the code of block created to show the difference between the results from using the function from the NumPy and the function created that involves vector operations. The inner() function created contains a loop that will run based on the number of elements inside the list created to represent a vector. It gets the values from the parameters of inner() function which is the ‘vec’ and ‘vec2’ that holds the values being passed when the list of vectors used as an argument when calling the function or in code, ‘inner(vect_1,vect_2)’. The operations inside the loop now have an access to the elements hence it can do the operations properly and return the result.
+
+![Figure 7]({{site.baseurl}}/images/LAB4.7.jpg)
+
+The output from using the function created and using the np.inner() function from the NumPy library. It can be observed that the resulting values from using the function created are identical with the resulting values from using the np.inner() function.
+
+---
+***
+
+### Activity 3
+
+![Figure 8]({{site.baseurl}}/images/LAB4.8.jpg)
+
+Figure 8 shows the block of code created to solve the vector operation using the given vector values. After analyzing the problem, the first part of the operation was coded first, and it can be observed that the square of the vector was done by getting the dot product of itself because according to [1], “The projection of a vector on to itself leaves its magnitude unchanged, the dot product of any vector with itself is the square of that vector's magnitude.” It was followed by calculating the second and third parts then the multiplication of each part to get the resulting vector. To visualize the resulting vector, the values were plotted into a 3-dimensional plane using the plot instead of the quiver to see how the continuous line of this behaves or to show all the possible vectors it can reach using the scalar values. 
+
+![Figure 8]({{site.baseurl}}/images/LAB4.8.jpg)
+
+Figure 9 shows the resulting vector and the visualization of it using a 3D plot. The line represents the transformed values from the resulting vector by scaling the values with the arbitrary constant or by multiplying each of these into the scalar values created to show the span of it. The values achieved are the same as the expected values by the instructor.  <p align="justify">
 
 ---
 ***
