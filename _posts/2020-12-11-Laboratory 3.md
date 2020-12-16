@@ -16,7 +16,6 @@ The practices of the activity include combining linear scaling and the addition 
 ![Figure 2]({{site.baseurl}}/images/LAB3.2.jpg)
 
 ---
-
 ***
 
 The result of the two activities done by implementing the principles and techniques of representing combinations in the 2-dimensional plane and visualizing spans using vector fields by performing operations using scientific programming was presented in this section.
