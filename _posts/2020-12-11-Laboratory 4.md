@@ -83,7 +83,7 @@ The resulting vector and the visualization of it using a 3D plot. The line repre
 ---
 ***
 
-### So what's this all about??
+### So what's this all about?
 
 This laboratory demonstrated the concepts behind the different principles and techniques that can be implemented when working on the operation between vectors. You got to familiarize yourself with the different operations that can be used or the other forms of the specific operation. For example, when dividing, the function np.divide() can be used or simply the slash ‘/’. Moreover, the other operations too can be done just by using the Python built-in function but using the NumPy library functions can make our life easier for solving specific problems that require multiple operations such as getting the magnitude of a vector. It was shown in this laboratory through discussion and the activities how long the code will be if we try to make a function to solve using the formula compare by using the functions from NumPy library specifically the np.linalg.norm() for computing the magnitude of a vector and the np.inner() for computing the inner or dot product of two vectors. You also learned through the activity given that the dot product of any vector with itself is the square of that vector's magnitude [1].
 
