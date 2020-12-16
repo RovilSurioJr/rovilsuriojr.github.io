@@ -22,7 +22,7 @@ In this blog, you will be introduced to basic programming with Python language a
 
 ## [Laboratory 5: Multi-dimensional Vectors](https://rovilsuriojr.github.io/Laboratory-5/)
 
-## [Laboratory 6](https://rovilsuriojr.github.io/Laboratory-6/)
+## [Laboratory 6: Matrices](https://rovilsuriojr.github.io/Laboratory-6/)
 
 ## [Laboratory 7](https://rovilsuriojr.github.io/Laboratory-7/)
 
