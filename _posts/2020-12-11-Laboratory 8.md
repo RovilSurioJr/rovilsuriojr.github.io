@@ -44,7 +44,7 @@ Figure above shows the results from solving a system of the linear equation usin
 
 ### So what's this all about?
 
-This laboratory familiarized me with the principles and techniques of solving linear equations using the various linear algebra techniques and to solve a system of equations using Python programming and NumPy library. You learned how this can be implemented through the practical examples provided in the discussion. 
+This laboratory familiarized you with the principles and techniques of solving linear equations using the various linear algebra techniques and to solve a system of equations using Python programming and NumPy library. You learned how this can be implemented through the practical examples provided in the discussion. 
 
 ---
 ***
