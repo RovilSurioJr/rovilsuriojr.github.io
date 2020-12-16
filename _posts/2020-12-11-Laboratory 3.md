@@ -13,14 +13,14 @@ The practices of the activity include combining linear scaling and the addition 
 ---
 ***
 
-## Activity 1 Flowchart
+### Activity 1 Flowchart
 
 ![Figure 1]({{site.baseurl}}/images/LAB3.1.jpg)
 
 ---
 *** 
 
-## Activity 2 Flowchart
+### Activity 2 Flowchart
 
 ![Figure 2]({{site.baseurl}}/images/LAB3.2.jpg)
 
@@ -29,7 +29,7 @@ The practices of the activity include combining linear scaling and the addition 
 
 The result of the two activities done by implementing the principles and techniques of representing combinations in the 2-dimensional plane and visualizing spans using vector fields by performing operations using scientific programming was presented in this section.
 
-## Activity 1
+### Activity 1
 
 ![Figure 3]({{site.baseurl}}/images/LAB3.3.jpg)
 
@@ -42,7 +42,7 @@ The Figure above shows the output of 3 linear combinations in 1 vector. Each com
 ---
 ***
 
-## Activity 2
+### Activity 2
 
 ![Figure 5]({{site.baseurl}}/images/LAB3.5.jpg)
 
@@ -79,28 +79,28 @@ The output of the plotted values from the third linear combination of two vector
 ---
 ***
 
-## Note:
+### Note:
 
 The role of unit vectors is to have a value if the purpose is to reach a specific span since when the scalar was multiplied to these unit vector, it transforms that unit vector or stretches it out into a plane [6]. Also, the scalar values multiplied to the unit vectors tell where the given vectors will land in graphical representation or plane.
 
 ---
 ***
 
-## So what's this all about??
+### So what's this all about??
 
 The implementation of the principles and techniques of representing linear combinations in the 2-dimensional plane are learned through the discussion in this laboratory and the given activities by the instructor. Using the vector fields in Python and by performing vector field operations using scientific programmings such as doing a dot product between the scalar values and vectors, the spans were visualized. You have learned new functions in this laboratory such as the plt.scatter() function that makes the plotting of the x and y components of a vector into a plane faster [2]. The np.arange() functions that create numbers from the given interval [1]. You also learned that the span can be linearly dependent vector when it is a scale of one another otherwise it is an independent vector. Moreover, for every linear combination, there would be a distinct set of values or plotting unless it is a linearly dependent vector. If a span is linearly dependent, it has a rank of 1 and if the span is presented in a 2-dimensional plane then it has a rank of 2. To conclude, the span of the two vectors represents all the possible vectors you can reach using only the two vector field operations which is vector addition and scalar multiplication. Also, the scalar values scale the unit vectors or tell where the vector will land in the plane.
 
 ---
 ***
 
-## Real-Life Application
+### Real-Life Application
 
 The concept of linear combination can be applied in engineering especially computer engineering or in some programming-related courses in a way that some programs need to do the concept of linear combination because of the specific purpose of the program. For example, a program that represents data through vectors that are plotted in a plane. This program can be about showing all the specific position of something like how is the movement of an eagle at a specific time. We can plot it using a linear combination and in this way, we can see the span of all possible location movements of the eagle during the specific time set.
 
 ---
 ***
 
-## References
+### References
 
 [1]"numpy.arange — NumPy v1.19 Manual", Numpy.org, 2020. [Online]. Available: https://numpy.org/doc/stable/reference/generated/numpy.arange.html. [Accessed: 22- Oct- 2020].
 
