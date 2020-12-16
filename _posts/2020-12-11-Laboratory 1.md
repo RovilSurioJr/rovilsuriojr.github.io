@@ -13,7 +13,7 @@ The practices of this activity include the implementation of methods and functio
 ---
 ***
 
-## Activity 1
+### Activity 1
 
 ![]({{site.baseurl}}/images/LAB1.1.jpg)
 
@@ -22,7 +22,7 @@ The code snippet above shows how to print a string from a list in which the form
 ---
 ***
 
-## Activity 2
+### Activity 2
 
 ![]({{site.baseurl}}/images/LAB1.2.jpg)
 
@@ -31,7 +31,7 @@ The code above is the example of accessing and manipulating elements from a coll
 ---
 ***
 
-## Activity 3
+### Activity 3
 
 ![]({{site.baseurl}}/images/LAB1.3.jpg)
 
@@ -40,7 +40,7 @@ The block of code was created and executed to present the three possible parties
 ---
 ***
 
-## Note:
+### Note:
 
 The advantage of using python is that it has a lot of documentation and its community is big so there are a lot of tutorials. Also, comparing to other languages, Python programming language is more flexible in terms of syntax. Likewise, in Jupyter Notebook, it is extremely useful in data science because of its capability to produce such graphs and vectors which is a good representation of many things.
 
