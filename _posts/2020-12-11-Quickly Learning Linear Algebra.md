@@ -28,6 +28,6 @@ In this blog, you will be introduced to basic programming with Python language a
 
 ## [Laboratory 8: System of Linear Equations](https://rovilsuriojr.github.io/Laboratory-8/)
 
-## [Laboratory 9](https://rovilsuriojr.github.io/Laboratory-9/)
+## [Laboratory 9: Midterm Case Study](https://rovilsuriojr.github.io/Laboratory-9/)
 
 ## [Laboratory 10](https://rovilsuriojr.github.io/Laboratory-10/)
