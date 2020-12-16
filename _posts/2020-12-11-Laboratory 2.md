@@ -112,6 +112,6 @@ Other examples of how vectors are used or other real-life situations that can be
 
 [23] T. Editors, "What Are Vectors, and How Are They Used?", Scientific American, 2020. [Online]. Available: https://www.scientificamerican.com/article/football-vectors/. [Accessed: 27- Sep- 2020].
 
-## You can access the code here:
+## You can access the codes here:
 
 [Laboratory 2 Repository](https://github.com/RovilSurioJr/Laboratory-2)
