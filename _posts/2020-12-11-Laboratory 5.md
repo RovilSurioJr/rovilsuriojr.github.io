@@ -91,7 +91,7 @@ The concepts of visualizing and representing vectors in n-dimensions for busines
 ---
 ***
 
-## You can access the codes here:
+## You can access the codes here with a full discussion:
 
 [Laboratory 5 Repository](https://github.com/RovilSurioJr/Laboratory-5)
 
