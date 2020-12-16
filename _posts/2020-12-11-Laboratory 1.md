@@ -23,6 +23,6 @@ The block of code was created and executed to present the three possible parties
 
 The advantage of using python is that it has a lot of documentation and its community is big so there are a lot of tutorials. Also, comparing to other languages, Python programming language is more flexible in terms of syntax. Likewise, in Jupyter Notebook, it is extremely useful in data science because of its capability to produce such graphs and vectors which is a good representation of many things.
 
-## You can access the code here:
+## You can access the codes here:
 
 [Laboratory 1 Repository](https://github.com/RovilSurioJr/-Laboratory-1)
