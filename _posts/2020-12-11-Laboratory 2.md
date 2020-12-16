@@ -9,9 +9,9 @@ The practices of the activity include creating arrays and plotting of vectors. T
 
 The results from the activities done by implementing the principles and techniques of representing the vectors through plotting using the MathPlot library and NumPy library to manipulate arrays were presented in this section. The first activity was focused on providing necessary formulas to complete the code while the second activity was all about code analysis and how to transform a project that lacks coding conventions into a well-created project that follows coding convention. Lastly, the third activity was about understanding the relationship of each vector used to represent data.
 
-![]({{site.baseurl}}/images/LAB2.1.jpg)
+![Figure 1]({{site.baseurl}}/images/LAB2.1.jpg)
 
-![]({{site.baseurl}}/images/LAB2.2.jpg)
+![Figure 2]({{site.baseurl}}/images/LAB2.2.jpg)
 
 Figures 1 and 2 show the code executed and the sample output or the Philippine Eagle Flight Plotter. The task was to fill in the necessary codes to make the function works. Three 2-D arrays were created which is assigned into dist1, dist2, and dist3 variable from the long and lat variable which generates random integers. In computing the total distance, the computation of three arrays was performed in the dist_total variable therefore, it holds the value of the summation of dist1, dist2, and dist3. The magnitude of the displacement was computed next which is assigned into disp variable and the L2 norm was used which is calculated as the square root of the sum of the squared vector values and executed using the function np.linalg.norm [1]. The angle of the displacement was calculated next using the equation provided \arctan{\ \left(\frac{y}{x+\alpha}\right)} wherein Figure 1 is equal to np.arctan(dist_total[1]/(dist_total[0]+alpha)) and it was assigned to theta variable wherein after getting the result, the value of theta was converted into degrees using the code provided np.degrees from the Numpy library.
 	
