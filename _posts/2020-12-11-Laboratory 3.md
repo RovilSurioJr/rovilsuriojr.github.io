@@ -93,7 +93,7 @@ The implementation of the principles and techniques of representing linear combi
 ---
 ***
 
-### Real-Life Application
+### Real-world application
 
 The concept of linear combination can be applied in engineering especially computer engineering or in some programming-related courses in a way that some programs need to do the concept of linear combination because of the specific purpose of the program. For example, a program that represents data through vectors that are plotted in a plane. This program can be about showing all the specific position of something like how is the movement of an eagle at a specific time. We can plot it using a linear combination and in this way, we can see the span of all possible location movements of the eagle during the specific time set.
 
