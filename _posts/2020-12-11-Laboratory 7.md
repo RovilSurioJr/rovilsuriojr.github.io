@@ -40,7 +40,7 @@ The fourth property of the dot product states that the dot product between A and
 ---
 ***
 
-### Property 5 4 Flowchart
+### Property 5 Flowchart
 
 ![Figure 4]({{site.baseurl}}/images/LAB7.4.jpg)
 
@@ -49,7 +49,7 @@ The fifth property of the dot product states that the dot product between a matr
 ---
 ***
 
-### Activity 6 Flowchart
+### Property 6 Flowchart
 
 ![Figure 5]({{site.baseurl}}/images/LAB7.5.jpg)
 
@@ -58,7 +58,7 @@ The sixth property of the dot product states that when a dot product between a m
 ---
 ***
 
-### Activity 7 Flowchart
+### Property 7 Flowchart
 
 ![Figure 6]({{site.baseurl}}/images/LAB7.6.jpg)
 
@@ -123,7 +123,7 @@ Code snippet above shows the proof of the dimension property. The shape of both 
 ---
 ***
 
-### So what's this all about??
+### So what's this all about?
 
 This laboratory successfully informed you about the implementation and the techniques of performing matrix operations such as transposition, dot product, inverse, and determinant. You was able to familiarize yourself with the different special properties of the dot product that become an activity for this laboratory. Moreover, you encountered how to do transposition, dot product, getting the determinant and the inverse of the matrix using Python and NumPy library. 
 
@@ -137,7 +137,7 @@ The content above are the activities after the discussion so if you want to read
 ---
 ***
 
-### Real-Life application
+### Real-world application
 
 According to [1], the problem of image reconstruction from projections can be considered as a system of linear equations of the form: Ax = B. It was explained thoroughly in [1] how it works but the main idea of this is that the system matrix A in simulates CT operation and the elements of this depend on the projection number and the angle. The values on the column of the matrix represent the intensities of the image and the column matrix b represents the collected projections by the scanner. 
 
