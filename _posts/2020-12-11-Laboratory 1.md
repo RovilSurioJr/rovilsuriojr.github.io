@@ -47,7 +47,7 @@ The advantage of using python is that it has a lot of documentation and its comm
 ---
 ***
 
-## You can access the codes here:
+## You can access the codes here with a full discussion:
 
 [Laboratory 1 Repository](https://github.com/RovilSurioJr/-Laboratory-1)
 
