@@ -38,6 +38,10 @@ The 2 vectors and the equations to be used in getting the span visualization of 
 
 The code of block above is created to present the span of the first linear combination of two vectors. Two arrays of the vectors were created and the creation of scalar values was done using the np.arrange() function and this time with the np.meshgrid() function to create a range of 2D values of R and R. A dot product was performed between c1 and c2 with the array of vectors are done using the equations to get the spanRx and spanRy. Lastly, this was plotted into the plane using the plt.scatter().
 
+![Figure 7]({{site.baseurl}}/images/LAB3.7.jpg)
+
+The figure above shows the output of the code executed to present the span of the first linear combination of two vectors. All the specific vectors inside the plane that was created using the equation are shown. The vectors are not a scale of each other therefore it is not linearly dependent and it has a rank of 2.
+
 
 
 ## You can access the code here:
