@@ -150,7 +150,7 @@ According to [1], the problem of image reconstruction from projections can be co
 
 
 
-## You can access the codes here:
+## You can access the codes here with a full discussion:
 
 [Laboratory 7 Repository](https://github.com/RovilSurioJr/Laboratory-7)
 
