@@ -66,6 +66,10 @@ The output of the plotted values from the third linear combination of two vector
 
 The role of unit vectors is to have a value if the purpose is to reach a specific span since when the scalar was multiplied to these unit vector, it transforms that unit vector or stretches it out into a plane [6]. Also, the scalar values multiplied to the unit vectors tell where the given vectors will land in graphical representation or plane.
 
+## So what's this all about??
+
+The implementation of the principles and techniques of representing linear combinations in the 2-dimensional plane are learned through the discussion in this laboratory and the given activities by the instructor. Using the vector fields in Python and by performing vector field operations using scientific programmings such as doing a dot product between the scalar values and vectors, the spans were visualized. You have learned new functions in this laboratory such as the plt.scatter() function that makes the plotting of the x and y components of a vector into a plane faster [2]. The np.arange() functions that create numbers from the given interval [1]. You also learned that the span can be linearly dependent vector when it is a scale of one another otherwise it is an independent vector. Moreover, for every linear combination, there would be a distinct set of values or plotting unless it is a linearly dependent vector. If a span is linearly dependent, it has a rank of 1 and if the span is presented in a 2-dimensional plane then it has a rank of 2. To conclude, the span of the two vectors represents all the possible vectors you can reach using only the two vector field operations which is vector addition and scalar multiplication. Also, the scalar values scale the unit vectors or tell where the vector will land in the plane.
+
 
 
 
