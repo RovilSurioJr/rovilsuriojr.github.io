@@ -1,6 +1,14 @@
 ---
 published: true
 ---
-## A New Post
+## Matrices
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+
+
+## You can access the codes here:
+
+[Laboratory 6 Repository](https://github.com/RovilSurioJr/Laboratory-6)
+
+---
+***
