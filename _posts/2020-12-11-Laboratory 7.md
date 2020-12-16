@@ -73,8 +73,76 @@ The results from implementing the properties of the dot product with Python for 
 
 ![Figure 7]({{site.baseurl}}/images/LAB7.7.jpg)
 
+Figure above shows that getting the equivalence of the two matrices that performed based on the first property results in False which proves that the property is right.
 
+---
+***
 
+### Property 2
+
+![Figure 8]({{site.baseurl}}/images/LAB7.8.jpg)
+
+Code snippet above shows that getting the equivalence of the two matrices that performed based on the second property results in True which proves that the property is right.
+
+---
+***
+
+### Property 4
+
+![Figure 9]({{site.baseurl}}/images/LAB7.9.jpg)
+
+Figure above shows the results from performing an equivalence test based on what the fourth property stated and it proves that this property is right.
+
+---
+***
+
+### Property 5
+
+![Figure 10]({{site.baseurl}}/images/LAB7.10.jpg)
+
+Code snippet above shows the proof that the dot product between an array and an identity array results in the array itself.
+
+---
+***
+
+### Property 6
+
+![Figure 11]({{site.baseurl}}/images/LAB7.11.jpg)
+
+Figure above shows the results from performing an equivalence test based on what the sixth property stated and it proves that this property is right.
+
+---
+***
+
+### Property 7
+
+![Figure 12]({{site.baseurl}}/images/LAB7.12.jpg)
+
+Code snippet above shows the proof of the dimension property. The shape of both matrices is shown first and since the column of the first matrix is equal to the number of rows in the second matrix, the dot product between the two matrices is successful.
+
+---
+***
+
+### So what's this all about??
+
+This laboratory successfully informed you about the implementation and the techniques of performing matrix operations such as transposition, dot product, inverse, and determinant. You was able to familiarize yourself with the different special properties of the dot product that become an activity for this laboratory. Moreover, you encountered how to do transposition, dot product, getting the determinant and the inverse of the matrix using Python and NumPy library. 
+
+---
+***
+
+### Note:
+
+The content above are the activities after the discussion so if you want to read and study the notebook that contains the discussion for this topic, kindly check the link for the repository at the end of this page.
+
+---
+***
+
+### Real-Life application
+
+According to [1], the problem of image reconstruction from projections can be considered as a system of linear equations of the form: Ax = B. It was explained thoroughly in [1] how it works but the main idea of this is that the system matrix A in simulates CT operation and the elements of this depend on the projection number and the angle. The values on the column of the matrix represent the intensities of the image and the column matrix b represents the collected projections by the scanner. 
+
+---
+***
 
 
 ## You can access the codes here:
