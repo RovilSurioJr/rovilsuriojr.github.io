@@ -16,7 +16,11 @@ Bebang asked for help in knowing the monthly revenues, costs, and profits from t
 
 ---
 ***
+### Data on hand 
 
+![Figure 1]({{site.baseurl}}/images/LAB89.1.jpg)
+
+The Figure above shows the data given by Bebang to be analyzed to solve the case
 
 
 
