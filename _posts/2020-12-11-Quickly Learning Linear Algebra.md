@@ -14,7 +14,7 @@ In this blog, you will be introduced to basic programming with Python programmin
 
 ## [Laboratory 2](https://rovilsuriojr.github.io/Laboratory-2/)
 
-## [Laboratory 3](https://rovilsuriojr.github.io/Laboratory-3/)
+## [Laboratory 3: Linear Combination and Spans](https://rovilsuriojr.github.io/Laboratory-3/)
 
 ## [Laboratory 4](https://rovilsuriojr.github.io/Laboratory-4/)
 
