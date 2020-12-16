@@ -104,7 +104,7 @@ Matrix operations play an important role in solving a problem in agriculture. Th
 ---
 ***
 
-## You can access the codes here:
+## You can access the codes here with a full discussion:
 
 [Laboratory 6 Repository](https://github.com/RovilSurioJr/Laboratory-6)
 
