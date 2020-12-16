@@ -20,7 +20,7 @@ In this blog, you will be introduced to basic programming with Python language a
 
 ## [Laboratory 4: Vector Operations](https://rovilsuriojr.github.io/Laboratory-4/)
 
-## [Laboratory 5](https://rovilsuriojr.github.io/Laboratory-5/)
+## [Laboratory 5: Multi-dimensional Vectors](https://rovilsuriojr.github.io/Laboratory-5/)
 
 ## [Laboratory 6](https://rovilsuriojr.github.io/Laboratory-6/)
 
