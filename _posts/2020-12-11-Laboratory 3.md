@@ -7,9 +7,15 @@ This laboratory activity aims to implement the principles and techniques of repr
 
 The practices of the activity include combining linear scaling and the addition of a vector. This activity teaches and implies the techniques of representing linear combinations in the 2-dimensional plane and visualizing spans using vector fields in python. Some functions were used such as np.arange() function that returns evenly spaced values within a given interval [1], plt.scatter() function that makes the plotting of the x and y components of a vector into a plane faster [2], plt.axhline() and plt.axvline() functions that adds a horizontal and vertical line across the axes [3][4], np.meshgrid() function that returns coordinate matrices from coordinate vectors [5]. The deliverables of the activity are to provide a linear equation and vector form of the linear combination. It was achieved by providing random values to be used in the equations and the vector form of the linear combination. 
 
+---
+***
+
 ## Activity 1 Flowchart
 
 ![Figure 1]({{site.baseurl}}/images/LAB3.1.jpg)
+
+---
+*** 
 
 ## Activity 2 Flowchart
 
@@ -19,6 +25,9 @@ The practices of the activity include combining linear scaling and the addition 
 ***
 
 The result of the two activities done by implementing the principles and techniques of representing combinations in the 2-dimensional plane and visualizing spans using vector fields by performing operations using scientific programming was presented in this section.
+
+---
+***
 
 ## Activity 1
 
@@ -30,6 +39,8 @@ The code snippet above shows the code of block created to show the linear combin
 
 The Figure above shows the output of 3 linear combinations in 1 vector. Each combination intersects in the origin and makes a line and it can be observed that they are not linearly dependent on each other.
 
+---
+***
 
 ## Activity 2
 
@@ -65,13 +76,22 @@ The 2 vectors used and the equation for getting the span visualization of the th
 
 The output of the plotted values from the third linear combination of two vectors. It can be observed that the span is a colinear vector or aligned hence it is a linearly dependent vector and has a rank of 1.
 
+---
+***
+
 ## Note:
 
 The role of unit vectors is to have a value if the purpose is to reach a specific span since when the scalar was multiplied to these unit vector, it transforms that unit vector or stretches it out into a plane [6]. Also, the scalar values multiplied to the unit vectors tell where the given vectors will land in graphical representation or plane.
 
+---
+***
+
 ## So what's this all about??
 
 The implementation of the principles and techniques of representing linear combinations in the 2-dimensional plane are learned through the discussion in this laboratory and the given activities by the instructor. Using the vector fields in Python and by performing vector field operations using scientific programmings such as doing a dot product between the scalar values and vectors, the spans were visualized. You have learned new functions in this laboratory such as the plt.scatter() function that makes the plotting of the x and y components of a vector into a plane faster [2]. The np.arange() functions that create numbers from the given interval [1]. You also learned that the span can be linearly dependent vector when it is a scale of one another otherwise it is an independent vector. Moreover, for every linear combination, there would be a distinct set of values or plotting unless it is a linearly dependent vector. If a span is linearly dependent, it has a rank of 1 and if the span is presented in a 2-dimensional plane then it has a rank of 2. To conclude, the span of the two vectors represents all the possible vectors you can reach using only the two vector field operations which is vector addition and scalar multiplication. Also, the scalar values scale the unit vectors or tell where the vector will land in the plane.
+
+---
+***
 
 ## Real-Life Application
 
