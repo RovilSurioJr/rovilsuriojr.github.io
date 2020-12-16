@@ -59,7 +59,7 @@ Figure above shows the example of data with four-dimensional from [7], the follo
 ---
 ***
 
-### So what's this all about??
+### So what's this all about?
 
 This laboratory implements the principles and techniques of representing multi-dimensional vectors. Through discussion and activities, you have familiarized myself with plotting a 3-dimensional vector and a system of linear equations in 2D and a 3D plane. 
 
