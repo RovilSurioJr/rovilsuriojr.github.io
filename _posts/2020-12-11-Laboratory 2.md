@@ -9,6 +9,8 @@ The practices of the activity include creating arrays and plotting of vectors. T
 
 The results from the activities done by implementing the principles and techniques of representing the vectors through plotting using the MathPlot library and NumPy library to manipulate arrays were presented in this section. The first activity was focused on providing necessary formulas to complete the code while the second activity was all about code analysis and how to transform a project that lacks coding conventions into a well-created project that follows coding convention. Lastly, the third activity was about understanding the relationship of each vector used to represent data.
 
+## Activity 1
+
 ![Figure 2]({{site.baseurl}}/images/LAB2.1.jpg)
 
 ![Figure 2]({{site.baseurl}}/images/LAB2.2.jpg)
@@ -17,6 +19,57 @@ The code snippets above show the code executed and the sample output or the Phil
 	
 Proceeding to the plotting of vectors, plt.quiver was used because it plots a 2D field of arrows based on the parameter provided. As shown in Figure 1, the first vector was plotted using the line of code that includes plt.quiver (0,0, dist1[0], dist1[1]) this is the parameter used to identify the location of the arrow, the 0,0 is the origin of the tail of the arrow while the dist1[0] and the dist[1] is the head of the arrow. The code that follows this is for the modification of how the arrow will look and the code needed for the legend of the graph. The same concept was used in plotting the second vector and for the third, the addition of the first vector and the second is used as the origin of the tail and still used its value dist3[0] and dist3[1] for its arrowhead. The displacement was plotted using the values of variable dist_total and in the same line of code, for the legend, it includes the variable theta or the degree. The plt.legend() shows the legend at the right top side of the graph as shown in Figure 2 and the plt.show() show what is inside the plt or the vectors plotted in the canvas. Lastly, the track_eagle(make_figs=True) is the one that confirms if the saving of the graph into an image will be executed so, if it was set to False then no image will be saved.
 
+## Activity 2
+
+The first function was used is the np.array which is used for creating an array [3]. The next is the one used in executing the L2 norm for computation of magnitude of displacement which is np.linalg.norm. It was defined according to its documentation [4], “This function can return one of eight different matrix norms.” It contains ord parameter which in this laboratory, the ord holds the L2 norm which is one of the eight different matrix norms and this is calculated as the square root of the sum of the squared vector values which is the formula in computing the magnitude of displacement [1]. The next function used is the np.arctan which is used in performing trigonometric inverse tangent [5] and the np.degrees which is used for converting angles from radians to degrees [6]. Moreover, in plotting the figures, plt.figure is used to create a new figure or activate an existing one [7]. The other function from the Mathplot library used in this laboratory includes plt.title – “Set a title for the axes.” [8], plt.xlim – “Get or set the x limits of the current axes.” [9], plt.ylim – “Get or set the y-limits of the current axes.” [10], plt.xlabel – “Set the label for the x-axis.” [11], plt.ylabel – “Set the label for the y-axis.” [12], plt.grid() – “Configure the grid lines.”, therefore if plt.grid is not used, there are no grid lines on the canvas [13]. Also, plt.quiver is used to plot a 2D field of arrows [2], plt.legend() is the one placing a legend on the axes [14], plt.show() is the one who display all open figures [15], plt.savefig is used to save the current figure [16]. Moreover, the np.zeros is used in the second problem in this laboratory and this function is used to return a new array of given shape and type which is filled with zeros [17]. The np.sum and the np.multipy are used to add the element on the array [18] or multiply the elements [19]. Lastly, the np.abs is used to calculate the absolute value of an element [20].
+
+The vector is defined by mathematicians and scientists as a quantity that depends on the direction and when there is direction then also a force, acceleration, and displacement are involved [21]. These values in real-life are can be used to study one's behavior just like the Philippine eagle flight plotter, by knowing the values researcher can come up with many conclusions. Vectors are also applied in playing basketball because the ball was being thrown into the air and this creates projectile and projectile can be represented with vectors. 
+
+Other examples of how vectors are used or other real-life situations that can be modeled using vectors are how the forces acting on a moving boat in the river. “The boat’s motor generates a force in one direction, and the current of the river of the river generates a force in another direction.” [22]. In this example, the direction of where the boat will go can be calculated when both the magnitude and direction of both forces from the current of the river and the force generated by the boat’s motor are known. Lastly, momentum vectors are applied in playing billiard since the players are trying to predict what will happen when the balls collide with the specific force exerted to the ball, the ball passes some of its momentum to the other ball when it collides because of the impact [23]. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References
+[1] J. Brownlee, "Gentle Introduction to Vector Norms in Machine Learning", Machine Learning Mastery, 2020. [Online]. Available: https://machinelearningmastery.com/vector-norms-machine-learning/. [Accessed: 26- Sep- 2020].
+[2]"matplotlib.pyplot.quiver — Matplotlib 3.3.2 documentation", Matplotlib.org, 2020. [Online]. Available: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.quiver.html. [Accessed: 26- Sep- 2020].
+[3]"numpy.array — NumPy v1.19 Manual", Numpy.org, 2020. [Online]. Available: https://numpy.org/doc/stable/reference/generated/numpy.array.html. [Accessed: 26- Sep- 2020].
+[4]"numpy.linalg.norm — NumPy v1.19 Manual", Numpy.org, 2020. [Online]. Available: https://numpy.org/doc/stable/reference/generated/numpy.linalg.norm.html#numpy.linalg.norm. [Accessed: 26- Sep- 2020].
+[5]"numpy.arctan — NumPy v1.15 Manual", Docs.scipy.org, 2020. [Online]. Available: https://docs.scipy.org/doc/numpy-1.15.1/reference/generated/numpy.arctan.html. [Accessed: 26- Sep- 2020].
+[6]"numpy.degrees — NumPy v1.19 Manual", Numpy.org, 2020. [Online]. Available: https://numpy.org/doc/stable/reference/generated/numpy.degrees.html. [Accessed: 26- Sep- 2020].
+[7]"matplotlib.pyplot.figure — Matplotlib 3.3.2 documentation", Matplotlib.org, 2020. [Online]. Available: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.figure.html. [Accessed: 26- Sep- 2020].
+[8]"matplotlib.pyplot.title — Matplotlib 3.1.2 documentation", Matplotlib.org, 2020. [Online]. Available: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.title.html. [Accessed: 26- Sep- 2020].
+[9]"matplotlib.pyplot.xlim — Matplotlib 3.3.2 documentation", Matplotlib.org, 2020. [Online]. Available: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.xlim.html. [Accessed: 26- Sep- 2020].
+[10]"matplotlib.pyplot.ylim — Matplotlib 3.3.2 documentation", Matplotlib.org, 2020. [Online]. Available: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.ylim.html. [Accessed: 26- Sep- 2020].
+[11]"matplotlib.pyplot.xlabel — Matplotlib 3.1.2 documentation", Matplotlib.org, 2020. [Online]. Available: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.xlabel.html. [Accessed: 26- Sep- 2020].
+[12]"matplotlib.pyplot.ylabel — Matplotlib 3.1.2 documentation", Matplotlib.org, 2020. [Online]. Available: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.ylabel.html. [Accessed: 26- Sep- 2020].
+[13]"matplotlib.pyplot.grid — Matplotlib 3.1.2 documentation", Matplotlib.org, 2020. [Online]. Available: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.grid.html. [Accessed: 26- Sep- 2020].
+[14]"matplotlib.pyplot.legend — Matplotlib 3.1.2 documentation", Matplotlib.org, 2020. [Online]. Available: https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.legend.html. [Accessed: 26- Sep- 2020].
+[15]"matplotlib.pyplot.show — Matplotlib 3.3.2 documentation", Matplotlib.org, 2020. [Online]. Available: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.show.html. [Accessed: 26- Sep- 2020].
+[16]"matplotlib.pyplot.savefig — Matplotlib 3.3.2 documentation", Matplotlib.org, 2020. [Online]. Available: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.savefig.html. [Accessed: 26- Sep- 2020].
+[17]"numpy.zeros — NumPy v1.19 Manual", Numpy.org, 2020. [Online]. Available: https://numpy.org/doc/stable/reference/generated/numpy.zeros.html. [Accessed: 26- Sep- 2020].
+[18]"numpy.sum — NumPy v1.19 Manual", Numpy.org, 2020. [Online]. Available: https://numpy.org/doc/stable/reference/generated/numpy.sum.html. [Accessed: 26- Sep- 2020].
+[19]"numpy.multiply — NumPy v1.19 Manual", Numpy.org, 2020. [Online]. Available: https://numpy.org/doc/stable/reference/generated/numpy.multiply.html. [Accessed: 26- Sep- 2020].
+[20]"numpy.absolute — NumPy v1.19 Manual", Numpy.org, 2020. [Online]. Available: https://numpy.org/doc/stable/reference/generated/numpy.absolute.html. [Accessed: 26- Sep- 2020].
+[21]"Scalars and Vectors", Grc.nasa.gov, 2020. [Online]. Available: https://www.grc.nasa.gov/www/k-12/airplane/vectors.html. [Accessed: 27- Sep- 2020].
+[22]"12: Vectors in Space", Mathematics LibreTexts, 2020. [Online]. Available: https://math.libretexts.org/Bookshelves/Calculus/Book%3A_Calculus_(OpenStax)/12%3A_Vectors_in_Space. [Accessed: 27- Sep- 2020].
+[23] T. Editors, "What Are Vectors, and How Are They Used?", Scientific American, 2020. [Online]. Available: https://www.scientificamerican.com/article/football-vectors/. [Accessed: 27- Sep- 2020].
 
 
 
