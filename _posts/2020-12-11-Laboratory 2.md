@@ -75,7 +75,7 @@ The first function was used is the np.array which is used for creating an array 
 ---
 ***
 
-### Real-Life Application
+### Real-world application
 
 The vector is defined by mathematicians and scientists as a quantity that depends on the direction and when there is direction then also a force, acceleration, and displacement are involved [21]. These values in real-life are can be used to study one's behavior just like the Philippine eagle flight plotter, by knowing the values researcher can come up with many conclusions. Vectors are also applied in playing basketball because the ball was being thrown into the air and this creates projectile and projectile can be represented with vectors. 
 
