@@ -97,7 +97,7 @@ This laboratory demonstrated the concepts behind the different principles and te
 ---
 ***
 
-## You can access the codes here:
+## You can access the codes here with a full discussion:
 
 [Laboratory 4 Repository](https://github.com/RovilSurioJr/Laboratory-4)
 
