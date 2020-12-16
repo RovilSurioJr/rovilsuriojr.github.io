@@ -73,6 +73,24 @@ The concepts of visualizing and representing vectors in n-dimensions for busines
 ---
 ***
 
+### References
+[1]"numpy.arange — NumPy v1.19 Manual", Numpy.org, 2020. [Online]. Available: https://numpy.org/doc/stable/reference/generated/numpy.arange.html. [Accessed: 01- Nov- 2020].
+
+[2]"matplotlib.pyplot.gca — Matplotlib 3.3.2 documentation", Matplotlib.org, 2020. [Online]. Available: https://matplotlib.org/3.3.2/api/_as_gen/matplotlib.pyplot.gca.html. [Accessed: 01- Nov- 2020].
+
+[3]"matplotlib.pyplot.figure — Matplotlib 3.3.2 documentation", Matplotlib.org, 2020. [Online]. Available: https://matplotlib.org/3.3.2/api/_as_gen/matplotlib.pyplot.figure.html. [Accessed: 01- Nov- 2020].
+
+[4]"matplotlib.pyplot.plot — Matplotlib 3.3.2 documentation", Matplotlib.org, 2020. [Online]. Available: https://matplotlib.org/3.3.2/api/_as_gen/matplotlib.pyplot.plot.html. [Accessed: 02- Nov- 2020].
+
+[5]"matplotlib.pyplot.show — Matplotlib 3.3.2 documentation", Matplotlib.org, 2020. [Online]. Available: https://matplotlib.org/3.3.2/api/_as_gen/matplotlib.pyplot.show.html. [Accessed: 02- Nov- 2020].
+
+[6]Citeseerx.ist.psu.edu, 2020. [Online]. Available: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.83.3421&rep=rep1&type=pdf. [Accessed: 02- Nov- 2020].
+
+[7]"Multidimensional Databases", Docs.oracle.com, 2020. [Online]. Available: https://docs.oracle.com/cd/E12478_01/rpas/pdf/150/html/classic_client_user_guide/basic_rpas_concepts/multidimensional_databases.htm. [Accessed: 02- Nov- 2020].
+
+---
+***
+
 ## You can access the codes here:
 
 [Laboratory 4 Repository](https://github.com/RovilSurioJr/Laboratory-4)
