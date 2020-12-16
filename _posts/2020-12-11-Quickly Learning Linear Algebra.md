@@ -4,10 +4,12 @@ published: true
 ![]({{site.baseurl}}/images/DEKU.gif)
 
 ## What is Linear Algebra?
-Linear algebra is a form of mathematics that is applied both in science in engineering because this lets us model a natural phenomenon and compute it efficiently and some basics examples of this can be seen in this blog. Also, Linear algebra concepts are very important in understanding machine learning and the theory behind it.
+
+Linear algebra is a form of mathematics that is applied both in science in engineering because this lets us model a natural phenomenon and compute it efficiently. With that being said, some basic examples of concepts of this can be seen in this blog. Also, Linear algebra concepts are very important in understanding machine learning and the theory behind it that's why it good to familiarize yourself with the fundamentals of linear algebra.
 
 ## What to expect?
-In this blog, you will be introduced to basic programming with Python language and with some important libraries such as NumPy and Matplotlib for visualization and other things. Also, matrices and vectors are the things you will mostly deal with in these examples.
+
+In this blog, you will be introduced to basic programming with Python language and with some important libraries such as NumPy and Matplotlib for visualization also for understanding the fundamentals of linear algebra. Matrices and vectors are the things you will mostly deal with in these examples.
 
 
 ## [Laboratory 1: Getting acquainted with Python](https://rovilsuriojr.github.io/Laboratory-1/)
