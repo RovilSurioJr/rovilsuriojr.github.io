@@ -115,6 +115,9 @@ The concept of linear combination can be applied in engineering especially compu
 ---
 ***
 
-## You can access the codes here:
+## You can access the codes here with a full discussion:
 
 [Laboratory 3 Repository](https://github.com/RovilSurioJr/Laboratory-3)
+
+---
+***
