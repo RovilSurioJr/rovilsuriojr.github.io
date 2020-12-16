@@ -11,7 +11,7 @@ The results from the activities done by implementing the principles and techniqu
 
 ## Activity 1
 
-![Figure 2]({{site.baseurl}}/images/LAB2.1.jpg)
+![Figure 1]({{site.baseurl}}/images/LAB2.1.jpg)
 
 ![Figure 2]({{site.baseurl}}/images/LAB2.2.jpg)
 
@@ -21,8 +21,17 @@ Proceeding to the plotting of vectors, plt.quiver was used because it plots a 2D
 
 ## Activity 2
 
+![Figure 3]({{site.baseurl}}/images/LAB2.3.jpg)
 
+The code above shows the organized eagle_kinematics function that computes the distance traveled by the eagle. To begin, the req_shape = 4 set an array that has 4 elements or set the shape into 4 and it was followed by the creation of shape3 and shape2 variables that returns an array of zeros since np.zeros are used. The eagle_time or the first array with 4 elements was created by getting the value of ‘t’ which in this case was set to 2 by passing as an argument when calling the eagle_kinematics function and when it was substituted to the ‘t’ in the line of operation provided it results in [8 4 2 1]. The if statement in Figure 3 checks if the number of elements of the velocity variable is equal to the req_shape which has a shape of 4. Besides, the variable velocity1 passed its value to velocity since it is used as an argument in calling the eagle_kinematics function. Therefore, the velocity now has 4 elements too and equal to the shape or req_shape. The next line of code is for making the second array of velocity. The velocity2 variable created an array with 3 elements by multiplying to 3 the first element of variable velocity1 or the 2 which results in 6 and multiplying to 2 the second element of variable velocity1 or the 1 which results in 2 and lastly, getting the third element of the variable velocity1 or the number 3. Overall, the velocity2 now has [6 2 3]. Next, velocity3 created an array with 2 elements by multiplying to 2 the first element of velocity2 or the 6 and getting its second element which results in [12 2]. Now, the set of velocities are present, and the computation of distance is possible by manipulating the array of eagle_time to match the number of elements for each set of velocities. The values of eagle_time were sliced to match the number of elements or the shape of each array of velocities. The first total distance computed using the equation provided from the first arrays with 4 elements results in 28 while the second total distance from the arrays with 3 elements results in 31 and lastly for the third total distance from the arrays with 2 elements results in 26. The three values from the total distance were returned so when the function was called, it will give the three total distances.
 
+## Activity 3
+
+![Figure 3]({{site.baseurl}}/images/LAB2.4.jpg)
+
+![Figure 4]({{site.baseurl}}/images/LAB2.5.jpg)
+
+![Figure 5]({{site.baseurl}}/images/LAB2.6.jpg)
 
 
 
