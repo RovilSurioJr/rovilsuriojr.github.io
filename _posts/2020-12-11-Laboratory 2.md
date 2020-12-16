@@ -15,7 +15,7 @@ The results from the activities done by implementing the principles and techniqu
 ---
 ***
 
-## Activity 1
+### Activity 1
 
 ![Figure 1]({{site.baseurl}}/images/LAB2.1.jpg)
 
@@ -28,7 +28,7 @@ Proceeding to the plotting of vectors, plt.quiver was used because it plots a 2D
 ---
 ***
 
-## Activity 2
+### Activity 2
 
 ![Figure 3]({{site.baseurl}}/images/LAB2.3.jpg)
 
@@ -37,7 +37,7 @@ The code above shows the organized eagle_kinematics function that computes the d
 ---
 ***
 
-## Activity 3
+### Activity 3
 
 ![Figure 3]({{site.baseurl}}/images/LAB2.4.jpg)
 
@@ -68,14 +68,14 @@ To conclude, as shown in Figures 6 to 9, the higher the profit or the fbpost_rea
 ---
 ***
 
-## Used functions
+### Used functions
 
 The first function was used is the np.array which is used for creating an array [3]. The next is the one used in executing the L2 norm for computation of magnitude of displacement which is np.linalg.norm. It was defined according to its documentation [4], “This function can return one of eight different matrix norms.” It contains ord parameter which in this laboratory, the ord holds the L2 norm which is one of the eight different matrix norms and this is calculated as the square root of the sum of the squared vector values which is the formula in computing the magnitude of displacement [1]. The next function used is the np.arctan which is used in performing trigonometric inverse tangent [5] and the np.degrees which is used for converting angles from radians to degrees [6]. Moreover, in plotting the figures, plt.figure is used to create a new figure or activate an existing one [7]. The other function from the Mathplot library used in this laboratory includes plt.title – “Set a title for the axes.” [8], plt.xlim – “Get or set the x limits of the current axes.” [9], plt.ylim – “Get or set the y-limits of the current axes.” [10], plt.xlabel – “Set the label for the x-axis.” [11], plt.ylabel – “Set the label for the y-axis.” [12], plt.grid() – “Configure the grid lines.”, therefore if plt.grid is not used, there are no grid lines on the canvas [13]. Also, plt.quiver is used to plot a 2D field of arrows [2], plt.legend() is the one placing a legend on the axes [14], plt.show() is the one who display all open figures [15], plt.savefig is used to save the current figure [16]. Moreover, the np.zeros is used in the second problem in this laboratory and this function is used to return a new array of given shape and type which is filled with zeros [17]. The np.sum and the np.multipy are used to add the element on the array [18] or multiply the elements [19]. Lastly, the np.abs is used to calculate the absolute value of an element [20].
 
 ---
 ***
 
-## Real-Life Application
+### Real-Life Application
 
 The vector is defined by mathematicians and scientists as a quantity that depends on the direction and when there is direction then also a force, acceleration, and displacement are involved [21]. These values in real-life are can be used to study one's behavior just like the Philippine eagle flight plotter, by knowing the values researcher can come up with many conclusions. Vectors are also applied in playing basketball because the ball was being thrown into the air and this creates projectile and projectile can be represented with vectors. 
 
@@ -84,7 +84,7 @@ Other examples of how vectors are used or other real-life situations that can be
 ---
 ***
 
-## References
+### References
 
 [1] J. Brownlee, "Gentle Introduction to Vector Norms in Machine Learning", Machine Learning Mastery, 2020. [Online]. Available: https://machinelearningmastery.com/vector-norms-machine-learning/. [Accessed: 26- Sep- 2020].
 
