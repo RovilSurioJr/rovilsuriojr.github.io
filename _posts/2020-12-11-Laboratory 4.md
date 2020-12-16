@@ -40,6 +40,17 @@ Figure above shows the algorithm created to get the resulting vector of the 3 ve
 ---
 ***
 
+The result of the activities done by implementing the techniques and principles of doing the different operations between vectors to solve specific problems like getting the modulus of vectors or the inner product of two vectors are presented in this section.
+
+### Activity 1
+
+![Figure 4]({{site.baseurl}}/images/LAB4.4.jpg)
+
+Figure 4 shows the code of block created to have a function that calculates the modulus without using the function from the NumPy library. The variable "raisesum" was set to 0 so that the assignment of this variable is possible at the same time that it was used as referenced. A loop statement was created to access every element inside the vectors created and inside this loop statement are the operations that will compute the modulus of the 6 different vectors. The operations include the summation of the squared elements from the vectors. The sum of these elements was assigned to the "raisesum" variable and the square root of this was assigned to "sqr" which was returned afterward and printed. The second part of the code is for the comparison between the function created and the function from the NumPy library.
+
+---
+***
+
 ## You can access the codes here:
 
 [Laboratory 3 Repository](https://github.com/RovilSurioJr/Laboratory-3)
