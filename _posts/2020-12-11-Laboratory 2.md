@@ -135,7 +135,7 @@ Other examples of how vectors are used or other real-life situations that can be
 ---
 ***
 
-## You can access the codes here:
+## You can access the codes here with a full discussion:
 
 [Laboratory 2 Repository](https://github.com/RovilSurioJr/Laboratory-2)
 
