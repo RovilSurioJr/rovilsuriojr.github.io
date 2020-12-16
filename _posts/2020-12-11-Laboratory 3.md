@@ -17,6 +17,8 @@ Activity 2 Flowchart
 
 The result of the two activities done by implementing the principles and techniques of representing combinations in the 2-dimensional plane and visualizing spans using vector fields by performing operations using scientific programming was presented in this section.
 
+## Activity 1
+
 ![Figure 3]({{site.baseurl}}/images/LAB3.3.jpg)
 
 The code snippet above shows the code of block created to show the linear combination visualization. It was achieved by first creating 3 different arrays of vectors and arranging 3 different scalar values by using the np.array() function and np.arrange() function. The step used in 3 different scalars is 0.5. The linear combinations are created by multiplying the scalar values to the unit vectors or the individual vectors. Lastly, these linear combinations in 1 vector were plotted into a 2-dimensional plane using the plt.scatter() function.
@@ -24,6 +26,18 @@ The code snippet above shows the code of block created to show the linear combin
 ![Figure 4]({{site.baseurl}}/images/LAB3.4.jpg)
 
 The Figure above shows the output of 3 linear combinations in 1 vector. Each combination intersects in the origin and makes a line and it can be observed that they are not linearly dependent on each other.
+
+
+## Activity 2
+
+![Figure 5]({{site.baseurl}}/images/LAB3.5.jpg)
+
+The 2 vectors and the equations to be used in getting the span visualization of the first linear combination of two vectors.
+
+![Figure 6]({{site.baseurl}}/images/LAB3.6.jpg)
+
+The code of block above created to present the span of the first linear combination of two vectors. Two arrays of the vectors were created and the creation of scalar values was done using the np.arrange() function and this time with the np.meshgrid() function to create a range of 2D values of R and R. A dot product was performed between c1 and c2 with the array of vectors are done using the equations to get the spanRx and spanRy. Lastly, this was plotted into the plane using the plt.scatter().
+
 
 
 ## You can access the code here:
