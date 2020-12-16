@@ -26,7 +26,7 @@ In this blog, you will be introduced to basic programming with Python language a
 
 ## [Laboratory 7: Matrix Algebra](https://rovilsuriojr.github.io/Laboratory-7/)
 
-## [Laboratory 8](https://rovilsuriojr.github.io/Laboratory-8/)
+## [Laboratory 8: System of Linear Equations](https://rovilsuriojr.github.io/Laboratory-8/)
 
 ## [Laboratory 9](https://rovilsuriojr.github.io/Laboratory-9/)
 
