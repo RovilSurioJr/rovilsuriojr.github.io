@@ -16,13 +16,27 @@ Bebang asked for help in knowing the monthly revenues, costs, and profits from t
 
 ---
 ***
+
 ### Data on hand 
 
 ![Figure 1]({{site.baseurl}}/images/LAB89.1.jpg)
 
 The Figure above shows the data given by Bebang to be analyzed to solve the case
 
+---
+***
 
+### Part 1
+
+![Figure 2]({{site.baseurl}}/images/LAB89.2.jpg)
+
+The code snippet above shows how to vectorize data and reshape a matrix to make the computation possible between the values.
+
+### Part 2
+
+![Figure 3]({{site.baseurl}}/images/LAB89.3.jpg)
+
+The Figure above shows the formulas needed to compute for values requested by Bebang
 
 
 
