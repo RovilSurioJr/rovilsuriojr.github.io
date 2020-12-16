@@ -9,12 +9,21 @@ The practices of the activity include combining linear scaling and the addition 
 
 ![Figure 1]({{site.baseurl}}/images/LAB3.1.jpg)
 
-The Figure shows the flowchart of the code created for activity 1.
+Activity 1 Flowchart
 
 ![Figure 2]({{site.baseurl}}/images/LAB3.2.jpg)
 
-The Figure shows the flowchart of the code created for activity 1.
+Activity 2 Flowchart
 
+The result of the two activities done by implementing the principles and techniques of representing combinations in the 2-dimensional plane and visualizing spans using vector fields by performing operations using scientific programming was presented in this section.
+
+![Figure 3]({{site.baseurl}}/images/LAB3.3.jpg)
+
+The code snippet above shows the code of block created to show the linear combination visualization. It was achieved by first creating 3 different arrays of vectors and arranging 3 different scalar values by using the np.array() function and np.arrange() function. The step used in 3 different scalars is 0.5. The linear combinations are created by multiplying the scalar values to the unit vectors or the individual vectors. Lastly, these linear combinations in 1 vector were plotted into a 2-dimensional plane using the plt.scatter() function.
+
+![Figure 4]({{site.baseurl}}/images/LAB3.4.jpg)
+
+The Figure above shows the output of 3 linear combinations in 1 vector. Each combination intersects in the origin and makes a line and it can be observed that they are not linearly dependent on each other.
 
 
 ## You can access the code here:
