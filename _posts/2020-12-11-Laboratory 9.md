@@ -75,12 +75,65 @@ The Figure above shows the monthly revenues, monthly cost, and monthly profits o
 
 ### Part 3
 
+![Figure 8]({{site.baseurl}}/images/LAB9.8.jpg)
 
+The code snippet above shows the function created for the computation of profits of the flavors for the whole year.
+
+---
+***
+
+### Part 4
+
+![Figure 9]({{site.baseurl}}/images/LAB9.9.jpg)
+
+The code snippet above shows the code executed to print the values of profits for each month
+
+---
+***
+
+### Flavor Profits
+
+![Figure 10]({{site.baseurl}}/images/LAB9.10.jpg)
+
+---
+***
+
+### Part 4
+
+![Figure 11]({{site.baseurl}}/images/LAB9.11.jpg)
+
+The Figure above shows the block of code created for accessing the sales values of each flavor and appending it to a list to sort it out.
+
+---
+***
+
+### Part 5
+
+![Figure 12]({{site.baseurl}}/images/LAB9.12.jpg)
+
+The code snippet above shows the code for identifying the best and worst flavors for a year.
+
+---
+***
+
+### The best and worst flavors
+
+![Figure 13]({{site.baseurl}}/images/LAB9.13.jpg)
+
+---
+***
+
+### Business recommendation
+
+After getting all the data needed, it can be observed every part of the data such as what month has the highest profit or what flavor is the most popular for the customers. It can also be observed what month specifically one flavor excels in sales. From knowing that, the stock of the ingredients for that specific flavor can be minimized to lessen the cost needed for a month. The sales for November to January are great however, it is noticeable that from June to October the sales are struggling. If from the previous years the results from the said months are also not good, the only way is to minimize the cost for those months as much as possible to save money and go all out from November of that year up until the first quarter of the next year. 
+
+---
+***
 
 
 ## You can access the codes here with a full discussion:
 
-[Laboratory 8 Repository](https://github.com/RovilSurioJr/Laboratory-8)
+[Laboratory 9 Repository](https://github.com/RovilSurioJr/MIDTERM-CASE-STUDY)
 
 ---
 ***
