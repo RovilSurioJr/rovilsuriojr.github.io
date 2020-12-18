@@ -45,7 +45,7 @@ The Figure above shows the formulas needed to compute for values requested by Be
 ***
 
 ### Monthly revenues 
-![Figure 4]({{site.baseurl}}/images/LAB89.4.jpg)
+![Figure 4]({{site.baseurl}}/images/LAB9.4.jpg)
 
 ---
 ***
