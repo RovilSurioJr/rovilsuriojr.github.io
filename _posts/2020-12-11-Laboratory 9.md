@@ -130,7 +130,6 @@ After getting all the data needed, it can be observed every part of the data suc
 ---
 ***
 
-
 ## You can access the codes here with a full discussion:
 
 [Laboratory 9 Repository](https://github.com/RovilSurioJr/MIDTERM-CASE-STUDY)
