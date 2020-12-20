@@ -59,7 +59,7 @@ In this blog, you will be introduced to basic programming with Python language a
 ---
 ***
 
-## [Laboratory 10](https://rovilsuriojr.github.io/Laboratory-10/)
+## [Laboratory 10: Linear Transformation](https://rovilsuriojr.github.io/Laboratory-10/)
 
 ---
 ***
