@@ -63,3 +63,8 @@ In this blog, you will be introduced to basic programming with Python language a
 
 ---
 ***
+
+## [Comedic Content](https://rovilsuriojr.github.io/Comedic-Content/)
+
+---
+***
